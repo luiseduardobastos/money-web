@@ -93,7 +93,7 @@ npm start
 <br>
 
 <h1>Roadmap</h1>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry:</p>
+<p>Navegue pelo nosso roadmap para conhecer os próximos passos do projeto:</p>
 
 - [x] Criação da interface;
 - [x] Consumo da API Money-API (repositório a parte);
