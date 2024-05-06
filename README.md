@@ -54,7 +54,9 @@ npm start
 <h1>Funcionalidades</h1>
 <p>O sistema de controle de despesas em React (Money) oferece uma variedade de funcionalidades projetadas para simplificar e otimizar o gerenciamento de suas finanças pessoais. Antes de explorar os detalhes, aqui está um resumo das principais funcionalidades:</p>
 
-<img src="https://github.com/luiseduardobastos/money-web/blob/master/src/assets/banner-telas.png">
+<p align="center">
+  <img src="https://github.com/luiseduardobastos/money-web/blob/master/src/assets/banner-telas.png">
+</p>
 
 <ul>
     <li><b>Listagem de Despesas:</b> Os usuários podem visualizar todas as suas despesas em uma interface organizada e de fácil navegação. As despesas são apresentadas de forma clara, permitindo uma rápida compreensão dos gastos;</li>
